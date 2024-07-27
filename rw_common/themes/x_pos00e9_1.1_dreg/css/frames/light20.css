@@ -1,0 +1,23 @@
+#sloganBox{background:url(../../images/slogan.png) no-repeat right -46px;}
+#sloganBox span{background:url(../../images/slogan_cap.png) no-repeat left -46px;}
+
+#featureBorderOuter span{background: url(../../images/feature_tint_cap.png) no-repeat left -244px;}
+#featureBorderOuter{background: url(../../images/feature_tint.png) no-repeat right -244px;}
+#featureBorderInner{border:1px solid rgba(255,255,255,0.2);}
+
+.imageStyle, .thumbnail-wrap, .movie-thumbnail-frame img, img.photo-frame{
+	background:url(../../images/px_light25.png);
+	border: 1px solid rgba(255,255,255,0.2);
+	box-shadow: 0px 2px 4px rgba(0,0,0,.75);
+	-webkit-box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 2px 4px rgba(0,0,0,0.75);
+}
+
+.thumbnail-wrap:hover, .movie-thumbnail-frame img:hover{
+	background:url(../../images/px_light45.png);
+}
+
+footer section{
+	background:url(../../images/px_light20.png);
+	border: 1px solid rgba(255,255,255,0.23);
+}

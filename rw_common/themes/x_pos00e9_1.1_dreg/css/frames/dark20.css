@@ -1,0 +1,23 @@
+#sloganBox{background:url(../../images/slogan.png) no-repeat right -230px;}
+#sloganBox span{background:url(../../images/slogan_cap.png) no-repeat left -230px;}
+
+#featureBorderOuter span{background: url(../../images/feature_tint_cap.png) no-repeat left -976px;}
+#featureBorderOuter{background: url(../../images/feature_tint.png) no-repeat right -976px;}
+#featureBorderInner{border:1px solid rgba(0,0,0,.33);}
+
+.imageStyle, .thumbnail-wrap, .movie-thumbnail-frame img, img.photo-frame{
+	background:url(../../images/px_dark20.png);
+	border: 1px solid rgba(0,0,0,0.25);
+	box-shadow: 0px 2px 4px rgba(0,0,0,.35);
+	-webkit-box-shadow: 0px 2px 4px rgba(0,0,0,0.35);
+	-moz-box-shadow: 0px 2px 4px rgba(0,0,0,0.35);
+}
+
+.thumbnail-wrap:hover, .movie-thumbnail-frame img:hover{
+	background:url(../../images/px_dark45.png);
+}
+
+footer section{
+	background:url(../../images/px_dark20.png);
+	border: 1px solid rgba(0,0,0,0.25);
+}

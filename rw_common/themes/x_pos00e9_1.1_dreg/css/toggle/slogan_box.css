@@ -1,0 +1,5 @@
+#sloganBox{top: 40px;}
+
+#sloganBox, #sloganBox span{
+	background: none !important;
+}

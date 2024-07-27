@@ -1,0 +1,206 @@
+/* LAYOUT ADJUSTMENTS */
+
+header, #featureBorderOuter, aside, footer {
+	display: none;
+}
+
+#wrapper, #content {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+
+/* TEXT AND CONTENT STYLES */
+
+body {
+	font-size: 12px;
+	line-height: 18px;
+	font-family: arial, helvetica, verdana, sans-serif;
+}
+
+p {
+	margin-bottom: 18px;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: normal;
+	margin-bottom: 18px;
+}
+
+h1 {
+	font-size: 36px;
+	line-height: 42px;
+}
+
+h2 {
+	font-size: 24px;
+	line-height: 30px;
+}
+
+h3 {
+	font-size: 18px;
+	line-height: 24px;
+	
+}
+
+h4, h5 {
+	font-size: 12px;
+	line-height: 18px;
+}
+
+ul, ol {
+	margin-bottom: 18px;
+}
+
+a {
+	text-decoration: underline;
+}
+
+a:hover, a:active {
+	text-decoration: none;
+}
+
+a img {
+	border: none;
+}
+
+.image-left{
+	float: left;
+	padding: 18px;
+}
+
+.image-right{
+	float: right;
+	padding: 18px;
+}
+
+/* BLOG ELEMENTS */
+
+.blog-entry {
+	margin-bottom: 24px;
+}
+
+.blog-entry-title, .blog-archive-month {
+	font-size: 18px;
+	line-height: 18px;
+	margin-bottom: 5px;
+}
+
+	.blog-entry-title a {
+		text-decoration: none;
+	}
+	
+	.blog-entry-title a:hover {
+		text-decoration: underline;
+	}
+	
+.blog-entry-date {
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+.blog-entry-comments {
+	font-size: 12px;
+	margin-top: 7px;
+	padding: 0 0 0 20px;
+	background: transparent url('images/comment.png') center left no-repeat;
+}
+
+p.blog-entry-tags{
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	margin-top: 7px;
+	padding: 0 0 0 20px;
+	background: transparent url('images/tag.png') center left no-repeat;
+}
+
+.blog-archive-headings-wrapper {
+	margin-bottom: 24px;
+}
+
+/* FILE SHARING ELEMENTS */
+
+.filesharing-description{
+	margin-bottom: 18px;
+}
+
+.filesharing-item{
+	padding: 0 0 6px 23px;
+	background: transparent url('images/download.png') 0 2px no-repeat;
+}
+
+/* PHOTO ALBUM */
+
+.album-title{
+	font-size: 18px;
+	line-height: 18px;
+	margin-bottom: 18px;
+}
+
+.album-wrapper {
+	width: 99%;
+	overflow: auto;
+	margin-top: 24px;
+}
+
+.thumbnail-wrap {
+	text-align: center;
+	position: relative;
+	float: left;
+}
+
+/* PHOTO PAGE */
+
+/* Styles the background for this page */
+.photo-background{
+	margin: 0;
+	padding: 100px;
+	text-align: center;
+}
+
+/* Styles around the navigation controls */
+.photo-navigation{
+	margin: 0 auto 48px auto;
+	padding-top: 10px;
+}
+
+/* Styles the title of this page */
+.photo-title{
+	font-size: 36px;
+}
+
+/* Styles the photo caption */
+.photo-caption{
+	font-size: 24px;
+}
+
+/* MOVIE ALBUM */
+
+.movie-page-title{
+	font-size: 18px;
+	line-height: 18px;
+	margin-bottom: 18px;
+}
+
+/* Styles the page description */
+.movie-page-description{
+	margin-bottom: 24px;
+}
+
+/* Styles around the movie thumbnail */
+.movie-thumbnail-frame {
+	width: 132px;
+	height: 110px;
+	float: left;
+	position: relative;
+	text-align: center;
+	padding: 2px;
+	margin-bottom: 10px;
+}
+
+/* Movie Thumbnail */
+.movie-thumbnail-frame img{ 
+	margin-bottom: 9px;
+}

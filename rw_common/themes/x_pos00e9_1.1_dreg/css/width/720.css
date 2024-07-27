@@ -1,0 +1,9 @@
+.wrapperInner, footer{width:724px;}
+.wrapperInner section{width:480px;}
+
+#featureBorderInner,
+#featureImage,
+#featureInset{
+	height: 210px;
+	width: 700px;
+}

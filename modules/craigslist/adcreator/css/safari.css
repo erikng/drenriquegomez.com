@@ -1,0 +1,17 @@
+.file_input{width:340px;display: inline-block;}
+.upload_container{float:left;width:345px;height:80px;margin-left:10px}
+.preview_area{border: 1px solid rgb(204, 204, 204); -moz-border-radius: 5px 5px 5px 5px; float: left; height: 65px; width: 68px; text-align: center;margin-right: 20px;margin-top:05px;line-height:10px;}
+.upload_container label{display:block;width:55px;text-align:right;font-size:12px}
+.preview_area span{font-size: 10px;font-variant: small-caps;line-height: 15px;}
+.max_w_h{max-width:68px; max-height:64px;}
+.small_cbox{width:07px;height:07px;margin: 0px 2px;}
+
+/*----------------------------------------------------------*\
+|                                                            |
+|      ________)                         ______)             |
+|     (, /                              (, /         /)      |
+|       /___, __   _ ___   _____  _/_     /    _  _ (/       |
+|    ) /     / (__(/_// (_(_) / (_(__  ) /   _(/_(__/ )_     |
+|   (_/  ©2010 Bradley Klco             (_)                  |
+|                                                            |
+\*----------------------------------------------------------*/

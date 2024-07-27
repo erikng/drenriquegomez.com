@@ -1,0 +1,39 @@
+/* TEXT COLORS */
+.photo-background{background:url(images/noise.png);}
+body, .photo-background, .form-input-field {color: #D9D9D9;background-color:#36373A;}
+header, section .border, .blog-entry-date{border-bottom:1px solid #57585B;}
+
+.form-input-field{border:1px solid #686B72;}
+header nav{border-bottom:3px solid #464646;}
+.blog-entry, .filesharing-item{border-top:3px solid #464646;}
+.blog-entry-date{background-color: #464646;}
+footer #weight{background-color: #000000;}
+footer section{border-bottom:2px solid #000000;}
+
+a{color:#BABABA;}
+a:hover{color:#000000;}
+
+h1, h2, h3, h4, h5, h6, .blog-entry-title a, .blog-entry-date, .blog-entry-title a:hover, #blog-rss-feeds:before, ul.blog-tag-cloud:before, #blog-archives:before, #blog-categories:before, .album-title, .movie-title, .movie-page-title, .photo-title{color:#000000;}
+
+.photo-caption {color:#000000;}
+
+header h1{ color:#A6A6A6;}
+header h2, header h2 a{color:#B8B8B8;}
+h2#aside{color:#E1E1E1;}
+	
+blockquote, code {background:#EEEEEE;color:#000000;}
+
+nav a, .photo-links a{color:#D4D4D4;}
+nav a:hover, .photo-links a:hover{color:#FFFFFF;}
+nav a.current, nav a.currentAncestor {color:#FFFFFF;}
+
+aside nav a{color:#000000;}
+aside nav a:hover{color:#FFFFFF !important;}
+aside nav a.current{color:#FFFFFF;}
+aside nav a.currentAncestor {color:#000000;}
+
+footer{color:#8F8F8F;}
+footer a{color:#E1E1E1;}
+footer a:hover{color:#FFFFFF;}
+
+.blog-entry-date, .blog-entry-date a{color:#FFFFFF;}
